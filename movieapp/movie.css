@@ -101,3 +101,8 @@ main {
 .overview:hover {
     transform: translateY(0);
 }
+
+.tital{
+    color: aliceblue;
+    margin-right: 25vw;
+}
